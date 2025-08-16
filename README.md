@@ -1,13 +1,13 @@
 ## Hi, I'm Anna Rossi 
 
 ### About Me 
--------
+
 - Master's student in **Bioinformatics** at the University of Bologna  
 - Background in **Biological Sciences** (University of Urbino)
 - Expanding my knowledge in the integration of omics technologies and data science, with a focus on applying machine learning to uncover patterns in complex biological systems
 
 ## Skills 
-------
+
 - **Programming and Os**: Python, R, Bash, Linux, Windows
 - **Databases**: SQL, Redis
 - **Python Libraries**: scikit-learn, pandas, NumPy, matplotlib, seaborn
