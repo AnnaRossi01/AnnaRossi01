@@ -1,6 +1,6 @@
-## Hi, I'm Anna Rossi 
+### Hi, I'm Anna Rossi 
 
-### About Me 
+## About Me 
 
 - Master's student in **Bioinformatics** at the University of Bologna  
 - Background in **Biological Sciences** (University of Urbino)
