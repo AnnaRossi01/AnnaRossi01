@@ -1,5 +1,3 @@
-### Hi, I'm Anna Rossi 
-
 ## About Me 
 
 - Master's student in **Bioinformatics** at the University of Bologna  
