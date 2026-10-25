@@ -1,17 +1,17 @@
-## About Me 
+# Hi there! I am Anna Rossi
+**Bioinformatics Data Scientist | Clinical Genomics & Machine Learning**
 
-- Master's student in **Bioinformatics** at the University of Bologna  
-- Background in **Biological Sciences** 
-- Expanding my knowledge in the integration of omics technologies and data science, with a focus on applying machine learning to uncover patterns in complex biological systems
+## About Me
+* Bioinformatics Data Scientist with a Master Degree from the University of Bologna and a background in Biological Sciences.
+* I specialize in developing reproducible computational pipelines for clinical genomics and extracting quantitative metrics from high dimensional biomedical data.
+* During my clinical internship at the Seragnoli Institute of Hematology, I engineered automated NGS workflows for molecular diagnostics and tumor purity estimation.
+* I am passionate about bridging the gap between raw omics data and actionable biological insights using statistical modeling and Machine Learning.
 
-## Skills 
+## Technical Skills
+* **Programming & Scripting:** Python, R, Bash, SQL
+* **Machine Learning & Data Science:** PyTorch, Scikit learn, Pandas, NumPy, Predictive Modeling
+* **Bioinformatics & Clinical Genomics:** NGS Data Analysis, Variant Calling, Structural Variants, Systems Biology
+* **DevOps & Infrastructure:** Docker, Snakemake, HPC Cluster Computing (SLURM), Git, Linux, AWS
+* **Data Visualization:** Matplotlib, Seaborn, ggplot2
 
-- **Programming and Os**: Python, R, Bash, Linux, Windows
-- **Databases**: SQL, Redis
-- **Python Libraries**: scikit-learn, pandas, NumPy, matplotlib, seaborn
-- **Bioinformatic**: Statistical analysis, Data visualization, Protein structure/domain prediction and analysis, Methylation data analysis
-- **Scientific Practices**: conducting literature research, producing scientific writing, and collaborating effectively in team-based projects
-- **Other Tools**: Anaconda, Docker, AWS, Snakemake
-
-Check out my GitHub repositories with academic and personal projects. 
-
+Check out my repositories below for academic projects and automated pipelines!
